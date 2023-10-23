@@ -1,6 +1,6 @@
 import "normalize.css";
 
-import "./assets/css/global.css";
+import "./assets/css/reset.css";
 
 import ReactDOM from "react-dom/client";
 import App from "./App";
