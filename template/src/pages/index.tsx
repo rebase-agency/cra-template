@@ -1,7 +1,3 @@
-import React from "react";
-
 export default function StartPage() {
-  return (
-    <div>Welcome to Rebase CRA Template</div>
-  );
+  return <div>Welcome to Rebase CRA Template</div>;
 }
