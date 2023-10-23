@@ -1,6 +1,6 @@
 {
-  "name": "rebase-cra-template",
-  "version": "0.1.0",
+  "name": "@rebase-agency/cra-template",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -13,6 +13,7 @@
     "url": "git@git.rebase.codes:rebase/rebase-cra-template.git"
   },
   "author": "rebase",
+  "license": "MIT",
   "engines": {
     "node": ">=16"
   },
