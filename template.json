@@ -28,6 +28,11 @@
         "react-app",
         "react-app/jest"
       ]
+    },
+    "scripts": {
+      "postinstall": "generate-env-getter",
+      "prestart": "generate-env-getter",
+      "pretest": "generate-env-getter"
     }
   }
 }
