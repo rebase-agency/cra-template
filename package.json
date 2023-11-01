@@ -1,6 +1,6 @@
 {
   "name": "@rebase-agency/cra-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -10,8 +10,10 @@
   "description": "The base template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "git@git.rebase.codes:rebase/rebase-cra-template.git"
+    "url": "https://github.com/rebase-agency/cra-template"
   },
+  "homepage": "https://github.com/rebase-agency/cra-template",
+  "main": "template.json",
   "author": "rebase",
   "license": "MIT",
   "engines": {
