@@ -22,8 +22,11 @@ yarn start
 ```
 
 ## Features
+- Starting FSD architecture
 - Typescript
 - Eslint & Prettier
 - Support of runtime environment variables with dynamic values
-- normalize.css and shared reset css file
-- React Helmet, axios, classnames libraries
+- Normalize.css and shared reset css file
+- All necessary meta tags for SEO in public/index.html
+- Axios instance
+- React Helmet & classnames
