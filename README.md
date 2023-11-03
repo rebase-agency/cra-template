@@ -1,3 +1,5 @@
+# @rebase-agency/cra-template  [![version](https://img.shields.io/npm/v/@rebase-agency/cra-template)]
+
 A custom [create-react-app](https://github.com/facebook/create-react-app) template with sensible default code already done for you!
 
 ## Installation
