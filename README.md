@@ -1,6 +1,6 @@
 # @rebase-agency/cra-template
 
-![version](https://img.shields.io/npm/v/@rebase-agency/cra-template)
+![version](https://img.shields.io/npm/v/@rebase-agency/cra-template) [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/rebase-agency/cra-template/blob/master/LICENSE)
 
 A custom [create-react-app](https://github.com/facebook/create-react-app) template with sensible default code already done for you!
 
