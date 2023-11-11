@@ -34,3 +34,7 @@ yarn start
 - All necessary meta tags for SEO in public/index.html
 - Axios instance
 - React Helmet & classnames
+
+## License
+
+@rebase-agency/cra-template is an open source software licensed as [MIT](https://github.com/rebase-agency/cra-template/blob/main/LICENSE).
