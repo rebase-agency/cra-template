@@ -1,10 +1,10 @@
 import "normalize.css";
 
-import "./shared/assets/css/reset.css";
+import "./assets/css/reset.css";
 import "./app/styles/global.css";
 
 import ReactDOM from "react-dom/client";
-import { App } from "./app/App";
+import { App } from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(

@@ -26,7 +26,7 @@ yarn start
 ```
 
 ## Features
-- Starting FSD architecture
+- Starting module architecture
 - Typescript
 - Eslint & Prettier
 - Support of runtime environment variables with dynamic values

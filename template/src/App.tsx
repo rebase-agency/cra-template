@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import StartPage from "../pages";
+import StartPage from "./pages";
 
 export const App = () => {
   return (
